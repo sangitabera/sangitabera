@@ -144,7 +144,7 @@ NLP project using Machine Learning to detect duplicate questions.
 ## 🌐 Connect With Me
 
 💼 LinkedIn:
-YOUR_LINKEDIN_LINK
+https://www.linkedin.com/in/sangita-bera/
 
 💻 GitHub:
 https://github.com/sangitabera
@@ -153,10 +153,7 @@ https://github.com/sangitabera
 sangitabera.him@gmail.com
 
 🏆 HackerRank:
-YOUR_HACKERRANK_LINK
-
-🧩 LeetCode:
-YOUR_LEETCODE_LINK
+https://www.hackerrank.com/profile/sangitabera_him
 
 
 ## 💭 Quote
